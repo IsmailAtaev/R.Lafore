@@ -1,0 +1,16 @@
+﻿  1.cpp
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(17,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(58,7): error C3668: Book::getbook: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(55,3): error C2653: pulication: не является именем класса или пространства имен
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(56,45): error C2065: page: необъявленный идентификатор
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(60,3): error C2653: pulication: не является именем класса или пространства имен
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(61,30): error C2065: page: необъявленный идентификатор
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(67,1): error C2504: pulication: не определен базовый класс
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(78,8): error C3668: type::getbook: метод со спецификатором переопределения "override" не переопределяет какие-либо методы базового класса
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(75,3): error C2653: pulication: не является именем класса или пространства имен
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(80,3): error C2653: pulication: не является именем класса или пространства имен
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(87,2): error C2065: book: необъявленный идентификатор
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(87,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "b1"
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(87,7): error C2065: b1: необъявленный идентификатор
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(89,2): error C2065: b1: необъявленный идентификатор
+C:\Users\admin\Desktop\R.LAFORE\11nji glawa\1\1\1.cpp(93,2): error C2065: b1: необъявленный идентификатор

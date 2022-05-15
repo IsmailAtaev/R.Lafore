@@ -1,0 +1,22 @@
+﻿  4nji  glawa 7.cpp
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(96,25): error C2659: =: функция в качестве левого операнда
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(97,25): error C2659: =: функция в качестве левого операнда
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(98,25): error C2659: =: функция в качестве левого операнда
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(99,25): error C2659: =: функция в качестве левого операнда
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(100,25): error C2659: =: функция в качестве левого операнда
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(101,25): error C2659: =: функция в качестве левого операнда
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(123,13): warning C4551: в вызове функции отсутствует список аргументов
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(124,5): error C2450: недопустимое выражение типа "overloaded-function" в операторе switch
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(123,13): message : Контекст не позволяет устранить неоднозначность перегруженной функции
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(125,14): error C2065: str0: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(125,28): error C2065: str0: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(126,14): error C2065: str1: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(126,28): error C2065: str1: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(127,14): error C2065: str2: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(127,28): error C2065: str2: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(128,14): error C2065: str3: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(128,28): error C2065: str3: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(129,14): error C2065: str4: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(129,28): error C2065: str4: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(130,14): error C2065: str5: необъявленный идентификатор
+D:\praktika 1\praktika 2\4nji  glawa\4nji  glawa 7\4nji  glawa 7\4nji  glawa 7.cpp(130,28): error C2065: str5: необъявленный идентификатор

@@ -1,0 +1,5 @@
+﻿  1.cpp
+E:\Learning\R.LAFORE\11nji glawa\1\1\1.cpp(42,7): error C2555: book::getbook: возвращаемый тип перегруженной виртуальной функции отличается от "pulication::getbook" и не является ковариантным
+E:\Learning\R.LAFORE\11nji glawa\1\1\1.cpp(23): message : см. объявление "pulication::getbook"
+E:\Learning\R.LAFORE\11nji glawa\1\1\1.cpp(62,8): error C2555: type::getbook: возвращаемый тип перегруженной виртуальной функции отличается от "pulication::getbook" и не является ковариантным
+E:\Learning\R.LAFORE\11nji glawa\1\1\1.cpp(23): message : см. объявление "pulication::getbook"

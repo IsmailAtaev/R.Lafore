@@ -1,0 +1,6 @@
+﻿  5nji glawa 10.cpp
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 10\5nji glawa 10\5nji glawa 10.cpp(45,11): warning C4216: нестандартное расширение: float long
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 10\5nji glawa 10\5nji glawa 10.cpp(47,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 10\5nji glawa 10\5nji glawa 10.cpp(50,11): warning C4216: нестандартное расширение: float long
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 10\5nji glawa 10\5nji glawa 10.cpp(52,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  5nji glawa 10.vcxproj -> D:\praktika 1\praktika 2\5nji glawa\5nji glawa 10\Debug\5nji glawa 10.exe

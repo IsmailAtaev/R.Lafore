@@ -1,0 +1,2 @@
+﻿6nji glawa 8.obj : error LNK2001: неразрешенный внешний символ ""private: static int san::x" (?x@san@@0HA)"
+D:\praktika 1\praktika 2\6 nji glawa\6nji glawa 8\Debug\6nji glawa 8.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

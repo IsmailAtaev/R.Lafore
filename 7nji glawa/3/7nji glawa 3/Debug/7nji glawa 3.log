@@ -1,0 +1,4 @@
+﻿  7nji glawa 3.cpp
+D:\praktika 1\praktika 2\7nji glawa\7nji glawa 3\7nji glawa 3\7nji glawa 3.cpp(47,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\praktika 1\praktika 2\7nji glawa\7nji glawa 3\7nji glawa 3\7nji glawa 3.cpp(50,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  7nji glawa 3.vcxproj -> D:\praktika 1\praktika 2\7nji glawa\7nji glawa 3\Debug\7nji glawa 3.exe

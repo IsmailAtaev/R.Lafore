@@ -1,0 +1,5 @@
+﻿  4nji glawaw 3.cpp
+D:\praktika 1\praktika 2\4nji  glawa\4nji glawaw 3\4nji glawaw 3\4nji glawaw 3.cpp(26,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\praktika 1\praktika 2\4nji  glawa\4nji glawaw 3\4nji glawaw 3\4nji glawaw 3.cpp(27,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\praktika 1\praktika 2\4nji  glawa\4nji glawaw 3\4nji glawaw 3\4nji glawaw 3.cpp(28,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  4nji glawaw 3.vcxproj -> D:\praktika 1\praktika 2\4nji  glawa\4nji glawaw 3\Debug\4nji glawaw 3.exe

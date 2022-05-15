@@ -1,0 +1,9 @@
+﻿  5nji glawa 7.cpp
+5nji glawa 7.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl power(float,int)" (?power@@YANMH@Z) в функции _main
+    Указание на символы, которые определены и могут подойти:
+      "double __cdecl power(char,int)" (?power@@YANDH@Z)
+      "double __cdecl power(int,int)" (?power@@YANHH@Z)
+      "double __cdecl power(long,long)" (?power@@YANJJ@Z)
+      "double __cdecl power(float,float)" (?power@@YANMM@Z)
+      "double __cdecl power(double,int)" (?power@@YANNH@Z)
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 7\Debug\5nji glawa 7.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

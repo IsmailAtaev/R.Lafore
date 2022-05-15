@@ -1,0 +1,10 @@
+﻿  5nji glawa 9.cpp
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 9\5nji glawa 9\5nji glawa 9.cpp(34,14): error C2660: swap: функция не принимает 1 аргументов
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 9\5nji glawa 9\5nji glawa 9.cpp(18,7): message : см. объявление "swap"
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 9\5nji glawa 9\5nji glawa 9.cpp(54,5): error C2065: tsum: необъявленный идентификатор
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 9\5nji glawa 9\5nji glawa 9.cpp(55,5): error C2065: tsum: необъявленный идентификатор
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 9\5nji glawa 9\5nji glawa 9.cpp(56,5): error C2065: tsum: необъявленный идентификатор
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 9\5nji glawa 9\5nji glawa 9.cpp(59,5): error C2065: tsum: необъявленный идентификатор
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 9\5nji glawa 9\5nji glawa 9.cpp(60,5): error C2065: tsum: необъявленный идентификатор
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 9\5nji glawa 9\5nji glawa 9.cpp(61,5): error C2065: tsum: необъявленный идентификатор
+D:\praktika 1\praktika 2\5nji glawa\5nji glawa 9\5nji glawa 9\5nji glawa 9.cpp(62,12): error C2065: tsum: необъявленный идентификатор

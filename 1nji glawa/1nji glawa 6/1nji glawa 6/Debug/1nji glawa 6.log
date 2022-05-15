@@ -1,0 +1,6 @@
+﻿  1nji glawa 6.cpp
+D:\praktika 1\praktika 2\1nji glawa\1nji glawa 6\1nji glawa 6\1nji glawa 6.cpp(31,28): warning C4305: инициализация: усечение из "double" в "float"
+D:\praktika 1\praktika 2\1nji glawa\1nji glawa 6\1nji glawa 6\1nji glawa 6.cpp(31,44): warning C4305: инициализация: усечение из "double" в "float"
+D:\praktika 1\praktika 2\1nji glawa\1nji glawa 6\1nji glawa 6\1nji glawa 6.cpp(31,61): warning C4305: инициализация: усечение из "double" в "float"
+D:\praktika 1\praktika 2\1nji glawa\1nji glawa 6\1nji glawa 6\1nji glawa 6.cpp(31,78): warning C4305: инициализация: усечение из "double" в "float"
+  1nji glawa 6.vcxproj -> D:\praktika 1\praktika 2\1nji glawa\1nji glawa 6\Debug\1nji glawa 6.exe

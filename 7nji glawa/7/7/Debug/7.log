@@ -1,0 +1,4 @@
+﻿  7.cpp
+D:\praktika 1\praktika 2\7nji glawa\7\7\7.cpp(25,12): warning C4018: <: несоответствие типов со знаком и без знака
+D:\praktika 1\praktika 2\7nji glawa\7\7\7.cpp(54,2): error C3861: _atold: идентификатор не найден
+D:\praktika 1\praktika 2\7nji glawa\7\7\7.cpp(56,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "return"

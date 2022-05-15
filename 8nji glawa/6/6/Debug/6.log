@@ -1,0 +1,11 @@
+﻿  6.cpp
+E:\Learning\R.LAFORE\8nji glawa\6\6\6.cpp(86,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Learning\R.LAFORE\8nji glawa\6\6\6.cpp(86,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Learning\R.LAFORE\8nji glawa\6\6\6.cpp(86,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Learning\R.LAFORE\8nji glawa\6\6\6.cpp(93,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+E:\Learning\R.LAFORE\8nji glawa\6\6\6.cpp(94,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+E:\Learning\R.LAFORE\8nji glawa\6\6\6.cpp(95,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+E:\Learning\R.LAFORE\8nji glawa\6\6\6.cpp(96,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Learning\R.LAFORE\8nji glawa\6\6\6.cpp(96,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Learning\R.LAFORE\8nji glawa\6\6\6.cpp(96,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  6.vcxproj -> E:\Learning\R.LAFORE\8nji glawa\6\Debug\6.exe
